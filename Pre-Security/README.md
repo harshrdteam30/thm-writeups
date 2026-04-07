@@ -1,5 +1,5 @@
 # Pre-Security
-In this section, I have made notes on the concepts provided on tryhackme and solution for each taks along with their answers 
+In this section, I have made notes on the concepts provided on tryhackme - PreSecurity and solution for each task along with their answers 
 
 ### Following Modules are listed :-
 
