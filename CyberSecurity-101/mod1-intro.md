@@ -1,17 +1,17 @@
 # Introduction
 
 ### Offensive Sec intro
+------------------------------------------------------------------------------------
 
 ### Defensive Sec Intro
-
+------------------------------------------------------------------------------------
 
 ### Search Skills   
   
-_Task 1:_  
-Introduction to why we need to search  
+__Task 1:__ Introduction to why we need to search  
   
   
-_Task 2: Evaluation of Search Results_  
+__Task 2: Evaluation of Search Results__  
   
 Consider 4 things before evaluation information :  
 - Source  
@@ -23,7 +23,7 @@ Consider 4 things before evaluation information :
 ##### Answer 2 - ss (socket statistic )  
   
   
-_Task 3: Search Engine _  
+__Task 3: Search Engine__  
   
 Learn , how to carry out advanced searches in search engines, like google dorking in google search engine.  
   
@@ -31,7 +31,7 @@ Learn , how to carry out advanced searches in search engines, like google dorkin
 ##### Answer 2 - socket statistics  
   
   
-_Task 4: Specialized Search Engine _  
+__Task 4: Specialized Search Engine__  
   
 Shodan (search for specific types and versions of servers, networking equipment, industrial control systems, and IoT devices)  
 Censys (focuses on Internet-connected hosts, websites, certificates, and other Internet assets. )  
@@ -42,7 +42,7 @@ Have I been Pwned ( tells you if an email address has appeared in a leaked data 
 ##### Answer - 2: Android.Riskware.Agent.LHH  (search hash on virustotal.com)   
   
   
-_Task 5: Vulnerabilities and Exploits _  
+__Task 5: Vulnerabilities and Exploits__  
   
 CVE - Common Vulnerabilities and Exposures (CVE) is a dictionary of vulnerabilities.  
 Exploit Database - to find a working exploit code for vulnerabilities.  
@@ -50,7 +50,7 @@ Exploit Database - to find a working exploit code for vulnerabilities.
 ##### Answer : XZ ( search CVE-2024-3094 on cve.org - see title )  
   
   
-_Task 6: Technical Documentation _  
+__Task 6: Technical Documentation__  
   
 On Linux :- man pages ( man "command ")  
 On windoes :- online technical documentation  
@@ -59,11 +59,11 @@ On windoes :- online technical documentation
 ##### Answer - 2: -b ( search netstat on windows learning center)  
   
   
-_Task 7: Social Media _  
+__Task 7: Social Media__  
   
 ##### Answer - 1: Linkedin
 ##### Answer - 2: Facebook
 
-_Task 8 : Conclusion _
+__Task 8 : Conclusion__
 COmpleted.............
 
